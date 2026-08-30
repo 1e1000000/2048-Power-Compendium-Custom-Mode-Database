@@ -49,6 +49,7 @@ Vue.component("settings-tab", {
         <br>
          - FIVE: Available with Official Mode, just unleash the wave (which can be found in DIVE), and you will see FIVE, in the place of 2700. You will also have modifiers which have more options to play.<br>
          - Bicolor 2048 / Bicolor 4096: Available with Global Modifier, go to "Settings and Modifiers", switch to Modifier, go to page 4, and you will see "Multicolor Tiles", change this value to 2.<br>
+         - Timeless 2592: Can be recreated with Mode Modifier of 180, change the merge lengths to "specific amounts of the same tile", enter 2 on first box and 3 on second box, remove the third one.<br>
          - 3969: Can be played with Infused Mode named 3087, created by MathCookie, which have the same merge rule with more modifiers.<br>
     </div>
     `
